@@ -23,6 +23,28 @@
                 "website": "http://lokspace.eu/cura-custom-supports-plugin/"
             }
         },
+        "LinearAdvanceSettingPlugin": {
+            "filename": "C:\\Users\\martin\\AppData\\Local\\cura\\4.8\\cache\\cura_packages\\LinearAdvanceSettingPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Adds a Linear Advance Ratio setting for firmware that supports the LIN_ADVANCE feature",
+                "display_name": "Linear Advance Settings",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "LinearAdvanceSettingPlugin",
+                "package_type": "plugin",
+                "package_version": "3.5.11",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.0.0",
+                "website": "https://github.com/fieldOfView/Cura-LinearAdvanceSettingPlugin"
+            }
+        },
         "MaterialSettingsPlugin": {
             "filename": "C:\\Users\\martin\\AppData\\Local\\cura\\4.8\\cache\\cura_packages\\MaterialSettingsPlugin.curapackage",
             "package_info": {
