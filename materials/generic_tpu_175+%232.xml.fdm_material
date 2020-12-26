@@ -7,37 +7,38 @@
       <color>Generic</color>
       <label>TPU</label>
     </name>
-    <version>11</version>
-    <adhesion_info>Use glue.</adhesion_info>
-    <GUID>266a1a80-9430-4aa0-9416-ede334dbb483</GUID>
     <description>Wear and tear resistant. TPU features a Shore-A hardness of 95 and an elongation of up to 580% at break. Suitable for applications that require slight flexibility, wear and tear, and chemical resistance.</description>
     <color_code>#B22744</color_code>
+    <version>11</version>
+    <GUID>266a1a80-9430-4aa0-9416-ede334dbb483</GUID>
+    <adhesion_info>Use glue.</adhesion_info>
   </metadata>
   <properties>
-    <density>1.22</density>
     <diameter>1.75</diameter>
+    <density>1.22</density>
   </properties>
   <settings>
-    <setting key="standby temperature">175</setting>
-    <cura:setting key="material_bed_temperature">50</cura:setting>
+    <cura:setting key="retraction_hop_enabled">yes</cura:setting>
     <cura:setting key="speed_layer_0">15</cura:setting>
     <cura:setting key="material_crystallinity">true</cura:setting>
-    <cura:setting key="retraction_hop_enabled">yes</cura:setting>
     <setting key="retraction amount">10</setting>
-    <setting key="build volume temperature">27</setting>
-    <cura:setting key="speed_wall">15</cura:setting>
-    <setting key="surface energy">100</setting>
-    <setting key="print temperature">200</setting>
-    <setting key="heated bed temperature">50</setting>
+    <setting key="standby temperature">175</setting>
     <setting key="adhesion tendency">3</setting>
+    <setting key="build volume temperature">27</setting>
     <cura:setting key="speed_z_hop">10</cura:setting>
-    <cura:setting key="speed_print">15</cura:setting>
     <setting key="retraction speed">50</setting>
+    <setting key="heated bed temperature">110</setting>
+    <setting key="surface energy">100</setting>
     <cura:setting key="speed_topbottom">15</cura:setting>
+    <setting key="print temperature">200</setting>
+    <cura:setting key="speed_wall">15</cura:setting>
+    <cura:setting key="speed_print">15</cura:setting>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_ender3" />
       <setting key="print cooling">100</setting>
+      <cura:setting key="material_bed_temperature">50</cura:setting>
       <setting key="retraction speed">45</setting>
+      <setting key="heated bed temperature">50</setting>
     </machine>
   </settings>
 </fdmmaterial>
