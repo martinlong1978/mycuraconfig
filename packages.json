@@ -68,7 +68,7 @@
             }
         },
         "OctoPrintPlugin": {
-            "filename": "C:\\Users\\martin\\AppData\\Local\\cura\\4.8\\cache\\cura_packages\\OctoPrintPlugin.curapackage",
+            "filename": "C:\\Users\\marti\\AppData\\Local\\cura\\4.8\\cache\\cura_packages\\OctoPrintPlugin.curapackage",
             "package_info": {
                 "author": {
                     "author_id": "fieldofview",
@@ -83,9 +83,9 @@
                 "is_installed": true,
                 "package_id": "OctoPrintPlugin",
                 "package_type": "plugin",
-                "package_version": "3.5.17",
+                "package_version": "3.5.18",
                 "sdk_version": 7,
-                "sdk_version_semver": "7.3.0",
+                "sdk_version_semver": "7.4.0",
                 "website": "https://github.com/fieldOfView/Cura-OctoPrintPlugin"
             }
         }
