@@ -1,1 +1,1 @@
-{"to_install": {}, "to_remove": [], "disabled": ["USBPrinting"]}
+{"to_install": {}, "disabled": ["USBPrinting"], "to_remove": []}
